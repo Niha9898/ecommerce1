@@ -1,0 +1,25 @@
+#id1{
+    height:300px;
+    width:100%;
+    background-image: url(./images/about.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#accordionFlushExample{
+    width:500px;
+}
+#id2{
+    background-color:rgb(91, 149, 182);
+}
+.bg{
+    background-color: gainsboro;
+}
+.container{
+    background-color: gainsboro;
+}
+.c1{
+    background-color:  rgb(233, 183, 204);
+}
+.h1{
+    height:300px;
+}
